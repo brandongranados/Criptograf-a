@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/media/brandon/BRANDON-DAT/ESCUELA/IPN/CRIPTOGRAFIA/PRACTICA 0/.metadata/.plugins/org.eclipse.jdt.core
+3447623317.index
+1865797976.index
+646308851.index
